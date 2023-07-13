@@ -1,0 +1,10 @@
+
+A la fecha: 13-7-2023
+Fue realizada cotización con los siguientes datos:
+Cantidad de pesos a convertir: 10000 pesos
+Convertido a "dolar" da un total de: 12.327
+
+A la fecha: 13-7-2023
+Fue realizada cotización con los siguientes datos:
+Cantidad de pesos a convertir: 2500 pesos
+Convertido a "uf" da un total de: 0.069
